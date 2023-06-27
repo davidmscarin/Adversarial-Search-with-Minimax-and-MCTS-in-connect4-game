@@ -1,4 +1,3 @@
-
     The file "connect4.py" is a Python script that simulates the game "Connect 4" and implements the adversarial search algorithms Minimax, Minimax with Alpha-Beta pruning, and Monte Carlo Tree Search (exceptionally, we also included the "Dummy" algorithm, which makes random moves).
 
     Interaction with the game is done through the terminal. After each move, the current state of the board and instructions for each player are printed. The game can be played with 2 human players, one human player and the other using one of the implemented algorithms (in this case, the human player is always player 1), or an algorithm against another algorithm.
